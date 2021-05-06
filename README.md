@@ -9,4 +9,4 @@
 ## 2. Pattern formation 
 - Lengyel-Epstein model (1D, 2D)  
 
-[[Presentation]]()
+[[Presentation]](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/2.%20Pattern_Formation/20210506_Pattern_Formation.pdf)
