@@ -10,3 +10,9 @@
 - Lengyel-Epstein model (1D, 2D)  
 
 [[Presentation]](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/2.%20Pattern_Formation/20210506_Pattern_Formation.pdf)
+
+## 3. Gradient Descent (20210603)
+- Convex optimization, Newton-method, Lagrange multiplier
+- Rosenbrock function
+
+[[Presentation]](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/3.%20Gradient_Descent/20210603_Gradient_Descent.pdf)
