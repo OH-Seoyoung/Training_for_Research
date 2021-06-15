@@ -1,5 +1,5 @@
 # Training for Research (20210302 ~ )
-- Study for the weekly research seminar in Mathematics
+- Study for the weekly research seminar
 
 ## 1. Neural Networks Basics (20210408)
 - Neural Networks, Logistic Regression, Gradient Descent   
