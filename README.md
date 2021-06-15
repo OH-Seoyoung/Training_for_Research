@@ -16,3 +16,8 @@
 - Rosenbrock function
 
 [[Presentation]](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/3.%20Gradient_Descent/20210603_Gradient_Descent.pdf)
+
+## 4. Wavelet Transform (20210616 ~ )
+```
+[1] Daubechies, Ingrid. Ten lectures on wavelets. Society for industrial and applied mathematics, 1992.
+```
