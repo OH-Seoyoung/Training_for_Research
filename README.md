@@ -18,7 +18,7 @@
 [[Presentation]](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/3.%20Gradient_Descent/20210603_Gradient_Descent.pdf)
 
 ## 4. Wavelet Transform (20210625 ~ )
-- Wavelet Transform and Windowed Fourier transform, Orthonormal wavelet bases : Multiresolution analysis  [[Presentation]]()
+- Wavelet Transform and Windowed Fourier transform, Orthonormal wavelet bases : Multiresolution analysis | [[Presentation]]()
 
 
 ```
