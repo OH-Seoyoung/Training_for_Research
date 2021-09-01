@@ -25,4 +25,5 @@
  | [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/4.%20Wavelet_Transform/20210901_Hilbert_Space.pdf) |
 ```
 [1] Daubechies, Ingrid. Ten lectures on wavelets. Society for industrial and applied mathematics, 1992.
+[2] Harris, Terri Joan. "HILBERT SPACES AND FOURIER SERIES." (2015).
 ```
