@@ -21,7 +21,7 @@
 ## 4. Wavelet Transform
 - Wavelet Transform and Windowed Fourier transform, Orthonormal wavelet bases : Multiresolution analysis  
  | [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/4.%20Wavelet_Transform/20210623_1_The%20What%2C%20Why%2C%20and%20How%20of%20Wavelets.pdf) |  
-- Hilbert Space and Fourier Analysis
+- Hilbert Space and Fourier Analysis  
  | [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/4.%20Wavelet_Transform/20210901_Hilbert_Space.pdf) |
 ```
 [1] Daubechies, Ingrid. Ten lectures on wavelets. Society for industrial and applied mathematics, 1992.
