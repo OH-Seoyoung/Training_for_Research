@@ -29,3 +29,6 @@
 [1] Daubechies, Ingrid. Ten lectures on wavelets. Society for industrial and applied mathematics, 1992.
 [2] Harris, Terri Joan. "HILBERT SPACES AND FOURIER SERIES." (2015).
 ```
+## 5. Monte-Carlo methods
+- Markov chain Monte-Carlo (MCMC), MCMC Analysis of Diffusion model, Kinetic/Dynamic Monte-Carlo
+- |[Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/5.%20Monte-Carlo_methods/20210923_Monte-Carlo_methods.pdf) |
