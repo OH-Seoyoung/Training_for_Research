@@ -10,13 +10,13 @@
 ## 2. Pattern formation
 - Lengyel-Epstein model (1D, 2D)  
 
-| [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/2.%20Pattern_Formation/20210506_Pattern_Formation.pdf) |
+| [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/2.%20Pattern_Formation/20210506_Pattern_Formation.pdf) | [Code](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/2.%20Pattern_Formation/Lengyel_Epstein_model_2D.m) |  
 
 ## 3. Gradient Descent
 - Convex optimization, Newton-method, Lagrange multiplier
 - Rosenbrock function
 
-| [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/3.%20Gradient_Descent/20210603_Gradient_Descent.pdf) |
+| [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/3.%20Gradient_Descent/20210603_Gradient_Descent.pdf) | [Code](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/3.%20Gradient_Descent/gradient.m)|  
 
 ## 4. Wavelet Transform
 - Wavelet Transform and Windowed Fourier transform, Orthonormal wavelet bases : Multiresolution analysis  
@@ -32,4 +32,4 @@
 ## 5. Monte-Carlo methods
 - Markov chain Monte-Carlo (MCMC), MCMC Analysis of Diffusion model, Kinetic/Dynamic Monte-Carlo  
   
-| [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/5.%20Monte-Carlo_methods/20210923_Monte-Carlo_methods.pdf) |
+| [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/5.%20Monte-Carlo_methods/20210923_Monte-Carlo_methods.pdf) | [Code](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/5.%20Monte-Carlo_methods/Monte-Carlo_simulation.ipynb) |  
