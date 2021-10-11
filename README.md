@@ -16,7 +16,7 @@
 - Convex optimization, Newton-method, Lagrange multiplier
 - Rosenbrock function
 
-| [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/3.%20Gradient_Descent/20210603_Gradient_Descent.pdf) | [Code](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/3.%20Gradient_Descent/gradient.m)|  
+| [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/3.%20Gradient_Descent/20210603_Gradient_Descent.pdf) | [Code](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/3.%20Gradient_Descent/gradient.m) |  
 
 ## 4. Wavelet Transform
 - Wavelet Transform and Windowed Fourier transform, Orthonormal wavelet bases : Multiresolution analysis  
