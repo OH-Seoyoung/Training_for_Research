@@ -42,6 +42,8 @@
 ## 6. Hierarchical structure in financial markets
 - Correlation coefficient, Minimal spanning tree (MST), Subdominant ultrametric distance matrix
 
+| [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/7.%20Hierarchical_trees/20220120_Hierarchical_structure_in_financial_market.pdf) | [Code](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/7.%20Hierarchical_trees/Hierarchical_clustering.R) |
+
 
 
 
