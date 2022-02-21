@@ -44,8 +44,10 @@
 
 | [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/7.%20Hierarchical_trees/20220120_Hierarchical_structure_in_financial_market.pdf) | [Code](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/7.%20Hierarchical_trees/Hierarchical_clustering.R) |
 
+## 8. Dynamical asset trees
+- MST, four moments, central vertex, vertex degree, power law, multi-step survival ratio
 
-
+| [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/8.%20Dynamic_asset_trees/20220126_Dynamics_of_market_correlation_Taxonomy_and_portfolio_analysis.pdf) | [Code](https://github.com/OH-Seoyoung/MST_for_financial_market_analysis) |
 
 
 
