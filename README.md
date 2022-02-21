@@ -34,12 +34,12 @@
   
 | [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/5.%20Monte-Carlo_methods/20210923_Monte-Carlo_methods.pdf) | [Code](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/5.%20Monte-Carlo_methods/Monte-Carlo_simulation.ipynb) |  
 
-## 5. Adam optimization
+## 6. Adam optimization
 - Mini-batch gradient descent, exponentially weighted averages, bias correction, momentum, RMSprop, Adam  
 
 | [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/6.%20Adam_optimization/20211111_Adam.pdf) | [Code](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/6.%20Adam_optimization/Adam_n_gradient_descent.ipynb) |  
 
-## 6. Hierarchical structure in financial markets
+## 7. Hierarchical structure in financial markets
 - Correlation coefficient, Minimal spanning tree (MST), Subdominant ultrametric distance matrix
 
 | [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/7.%20Hierarchical_trees/20220120_Hierarchical_structure_in_financial_market.pdf) | [Code](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/7.%20Hierarchical_trees/Hierarchical_clustering.R) |
