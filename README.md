@@ -1,6 +1,6 @@
 # Training for Research
 - Study for the weekly research seminar
-- Mar. 2, 2021 ~ Present  
+- Mar. 2, 2021 ~ Feb. 1, 2022
 
 ## 1. Neural Networks Basics
 - Neural Networks, Logistic Regression, Gradient Descent    
