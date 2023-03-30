@@ -47,7 +47,7 @@
 ## 8. Dynamical asset trees
 - MST, four moments, central vertex, vertex degree, power law, multi-step survival ratio
 
-| [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/8.%20Dynamic_asset_trees/20220126_Dynamics_of_market_correlation_Taxonomy_and_portfolio_analysis.pdf) | [Code](https://github.com/OH-Seoyoung/MST_for_financial_market_analysis](https://github.com/standing-o/Training_for_Research/blob/master/8.%20Dynamic_asset_trees/Hierarchical_clustering.R) |
+| [Presentation](https://github.com/OH-Seoyoung/Training_for_Research/blob/master/8.%20Dynamic_asset_trees/20220126_Dynamics_of_market_correlation_Taxonomy_and_portfolio_analysis.pdf) | [Code](https://github.com/standing-o/Training_for_Research/blob/master/8.%20Dynamic_asset_trees/Hierarchical_clustering.R) |
 
 
 
